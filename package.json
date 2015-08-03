@@ -1,0 +1,28 @@
+{
+  "name": "fis3-parser-artTemplate",
+  "version": "1.0.0",
+  "description": "parser art-template",
+  "main": "index.js",
+  "dependencies": {
+    "art-template": "3.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jincdream/fis3-parser-handlebars.git"
+  },
+  "keywords": [
+    "fis",
+    "fis3",
+    "parser",
+    "artTemplate"
+  ],
+  "author": "JinC a275727449@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jincdream/fis3-parser-artTemplate/issues"
+  },
+  "homepage": "https://github.com/jincdream/fis3-parser-artTemplate"
+}
